@@ -19,6 +19,8 @@ if (true) {
 }
 console.log(x); // ReferenceError: x is not defined
 
+```javascript
+
 Data Types & Operators
 
 Primitive Types:
